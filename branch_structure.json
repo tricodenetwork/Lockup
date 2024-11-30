@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "P2P",
+    "main",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "P2P": "main",
+    "main": null,
+    "master": "main",
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "P2P",
+    "master",
+    "origin"
+  ]
+}
